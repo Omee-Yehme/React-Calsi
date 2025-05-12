@@ -1,0 +1,12 @@
+.app{
+  text-align: center;
+  margin: 50px auto;
+  max-width: 400px;
+  
+}
+
+.rel{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
